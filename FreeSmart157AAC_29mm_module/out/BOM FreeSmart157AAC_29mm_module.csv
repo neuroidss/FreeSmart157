@@ -1,0 +1,12 @@
+Designator,Manufacturer Part Number or Seeed SKU,Qty,Link
+"SW4,SW3,SW2,SW1",B3U-1000P,4,https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357
+"R9,R13,R12,R10,R4,R3",RC0201JR-070RL,6,https://www.digikey.com/product-detail/en/yageo/RC0201JR-070RL/311-0.0NCT-ND/1949004
+P1,DF40C-50DP-0.4V(51),1,https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/DF40C-50DP-0.4V-51/H11626CT-ND/1969505
+U1,OSD32MP157C-512M-BAA-ES,1,https://www.digikey.com/product-detail/en/octavo-systems-llc/OSD32MP157C-512M-BAA-ES/1676-OSD32MP157C-512M-BAA-ES-ND/10481787
+J3,0473521001,1,https://www.digikey.com/product-detail/en/molex/0473521001/WM3290CT-ND/2405698
+"C8,C4",CC0201KRX5R6BB103,2,https://www.digikey.com/product-detail/en/yageo/CC0201KRX5R6BB103/311-1409-1-ND/2833715
+"R2,R1,R7",RC0201JR-071KL,3,https://www.digikey.com/product-detail/en/yageo/RC0201JR-071KL/311-1KNCT-ND/1949028
+C2,GRM033R60J104KE19D,1,https://www.digikey.com/product-detail/en/murata-electronics/GRM033R60J104KE19D/490-3167-1-ND/702708
+"J5,J4",USB3076-30-A,2,https://www.digikey.com/product-detail/en/gct/USB3076-30-A/2073-USB3076-30-ACT-ND/9859706
+"J7,J8",HPH1-B-16-UA,2,https://www.digikey.com/product-detail/en/adam-tech/HPH1-B-16-UA/2057-HPH1-B-16-UA-ND/9831568
+"J2,J1",DF40C-80DP-0.4V(51),2,https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/DF40C-80DP-0.4V-51/H11632CT-ND/1969511

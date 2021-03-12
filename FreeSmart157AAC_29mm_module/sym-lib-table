@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name FreeSmart157AAC_25.4mm_debug-rescue)(type Legacy)(uri ${KIPRJMOD}/FreeSmart157AAC_25.4mm_debug-rescue.lib)(options "")(descr ""))
+  (lib (name FreeSmart157AAC_28mm-rescue)(type Legacy)(uri ${KIPRJMOD}/FreeSmart157AAC_28mm-rescue.lib)(options "")(descr ""))
+  (lib (name FreeSmart157AAC_29mm_module-rescue)(type Legacy)(uri ${KIPRJMOD}/FreeSmart157AAC_29mm_module-rescue.lib)(options "")(descr ""))
+)
