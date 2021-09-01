@@ -6,3 +6,6 @@
 
 ![FreeSmart157 prealpha module](https://github.com/neuroidss/FreeSmart157/raw/main/image_31163.png)
 ![FreeSmart157 prealpha devboard](https://github.com/neuroidss/FreeSmart157/raw/main/image_31164.png)
+
+![FreeSmart157 prealpha debian login](https://github.com/neuroidss/FreeSmart157/raw/main/Screenshot%20from%202020-12-25%2023-16-08.png?raw=true)
+![FreeSmart157 prealpha top ifconfig](https://github.com/neuroidss/FreeSmart157/raw/main/Screenshot%20from%202020-12-25%2023-16-35.png)
